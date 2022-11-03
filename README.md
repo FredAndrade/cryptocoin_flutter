@@ -4,7 +4,7 @@ Projeto de uma carteira de Criptomoedas feito em Flutter
 
 ## Descrição
 
-Este aplicativo é uma carteira de criptomoedas, ele consegue ver todas as moedas listadas pela API(https://coinmarketcap.com), favoritar as que quiser (Salvando a informação no dispositivo), colocar um valor para a sua carteira, comprar moedas, ver o histórico de compras com uma lista e um gráfico de pizza, e ver o histórico do valor da moeda selecionada em 1h/ 24h/ 7 dias/ 1 mês/ 1 ano, e compartilhar o valor atual da moeda para outros locais.
+Este aplicativo é uma carteira de criptomoedas, ele consegue ver todas as moedas listadas pela API (https://coinmarketcap.com), favoritar as que quiser (Salvando a informação no dispositivo), colocar um valor para a sua carteira, comprar moedas, ver o histórico de compras com uma lista e um gráfico de pizza, e ver o histórico do valor da moeda selecionada em 1h/ 24h/ 7 dias/ 1 mês/ 1 ano, e compartilhar o valor atual da moeda para outros locais.
 
 ### Dependências Utilizadas
 * Provider
